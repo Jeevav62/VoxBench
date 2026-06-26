@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Environments
+v_eval/
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# Generated outputs (large binary — not for VCS)
+outputs/
+logs/
+
+# Results (track separately or exclude by policy)
+leaderboard_results.csv
+
+# NISQA weights and cache
+NISQA/weights/*.tar
+NISQA/nisqa/__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
