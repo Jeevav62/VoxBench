@@ -1,0 +1,18 @@
+S01,Questions,"Honestly, I have to ask, who precisely were you speaking with on the phone just a moment ago, and what, pray tell, made it sound so utterly clandestine? Is this something I should genuinely be concerned about?
+S02,Pronunciation,"The multivariate regression model, incorporating terms such as Δk²/N and the interaction X₁·X₂, yielded r² = 0.873 (p < 0.001, n = 428); these and other primary predictors were significant at α = 0.05, unlike X₃ (p = 0.062, 95% CI: [-0.018, 0.754]). 
+ 
+S03,Paralinguistics,"""I need you to listen CAREFULLY,"" the 911 operator instructed. ""Is the victim still BREATHING? Yes or no?"" 
+ 
+S04,Questions,"Forgive my insistence, but who precisely is responsible for coordinating the volunteer schedules? We genuinely need to get this sorted out quickly, so could you confirm if there's a designated primary contact person we should all defer to for updates? And what's the expected timeframe for us to receive that confirmation? The current ambiguity is causing significant delays for everyone involved. Could we perhaps establish a temporary point person if a permanent one isn't immediately available?"
+
+S05,Syntactic Complexity,"Despite the fact that the road that led to the Five Villages, which was known for its scenic beauty and whose every minute aspect could entrance, was narrow and winding, and its conditions often unpredictable, tourists flocked there; each minute a new discovery. "
+ 
+S06,Emotions,"A surge of anger flashed across the face of Matthew, as he bellowed, ""You have crossed the line this time, and I won't stand for it any longer! Get out! And don't you ever dare show your face here again!"" 
+
+S07,Foreign Words,"Hokusai's masterpieces, embracing shizen na fukanzen no bi—aru Nihonteki na bigaku—were on full display here." 
+
+S08,Pronunciation,The API endpoint https://api.service.io/v2.1/data/{userId}/transactions?limit=100&offset=0 requires bearer authentication with JWT format.,
+
+S09,Pronunciation,"Her portfolio returned 8.755% in Q2'23, outperforming the S&P 500's 6.212% by +2 and 3/7ths percentage points, bringing her 401(k) to $97,897,261.33." 
+
+S10,Emotions,"Jane's eyes wide with terror, she screamed, ""The brakes aren't working! What do we do now? We're completely trapped!""
