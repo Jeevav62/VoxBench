@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🎙️ TTS Leaderboard Metrics
+# 🔊 VoxBench
 
-**Open-source evaluation pipeline for benchmarking Text-to-Speech models**
+**The open-source benchmark pipeline for comparing Text-to-Speech models**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -10,17 +10,19 @@
 [![OpenAI](https://img.shields.io/badge/ASR-OpenAI%20Whisper-412991?logo=openai)](https://platform.openai.com)
 [![NISQA](https://img.shields.io/badge/MOS-NISQA-orange)](https://github.com/gabrielmittag/NISQA)
 
-Evaluate any TTS model in minutes. Get WER, CER, Semantic Similarity, Speaker Similarity, and NISQA MOS — all from one CLI command.
+Drop in any TTS model's audio. Get a full objective scorecard in minutes.
 
 </div>
 
 ---
 
-## Why This Exists
+## What is VoxBench?
 
-Evaluating TTS models is fragmented: different teams use different metrics, different datasets, different tools. This pipeline standardizes the evaluation by combining **five complementary metrics** into a single reproducible leaderboard format.
+VoxBench is a standardized benchmark pipeline built to evaluate and compare open-source Text-to-Speech (TTS) models side by side.
 
-Originally built as an internship project to evaluate commercial and open-source TTS engines. Now open-sourced so anyone can benchmark their TTS model against the same standard.
+The TTS ecosystem has exploded — dozens of open-source models, each claiming to be the best. But fair comparison is hard: teams cherry-pick metrics, use different test sets, and report numbers that don't translate across papers. VoxBench fixes that with a single reproducible pipeline covering five complementary metrics across a diverse 10-sample evaluation set.
+
+**Originally built during an internship** to evaluate and rank commercial and open-source TTS engines against each other. Open-sourced so the community can run the same benchmark on any model and contribute results to a shared leaderboard.
 
 ---
 
