@@ -19,5 +19,6 @@ scikit-learn>=1.2.0
 Resemblyzer>=0.1.4
 transformers>=4.30.0
 
-# NISQA dependency
+# NISQA dependencies
 PyYAML>=6.0
+matplotlib>=3.7.0
