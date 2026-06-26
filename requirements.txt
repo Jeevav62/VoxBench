@@ -1,0 +1,23 @@
+# Core
+openai>=1.30.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
+
+# Audio processing
+torch>=2.0.0
+librosa>=0.10.0
+soundfile>=0.12.0
+scipy>=1.10.0
+numba>=0.57.0
+
+# Metrics
+jiwer>=3.0.0
+sentence-transformers>=2.2.0
+scikit-learn>=1.2.0
+Resemblyzer>=0.1.4
+transformers>=4.30.0
+
+# NISQA dependency
+PyYAML>=6.0
